@@ -1,7 +1,12 @@
 ## used AGgrid
 
-`npm install --save ag-grid-react`
-`npm install --save ag-grid-community`
+```sh
+npm install --save ag-grid-react
+```
+
+```sh
+npm install --save ag-grid-community
+```
 
 # Getting Started with Create React App
 
@@ -73,3 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```
+
+```
